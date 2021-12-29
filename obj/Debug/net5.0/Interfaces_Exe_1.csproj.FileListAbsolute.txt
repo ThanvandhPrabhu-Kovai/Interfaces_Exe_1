@@ -1,0 +1,16 @@
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.exe
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.deps.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.runtimeconfig.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.runtimeconfig.dev.json
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\ref\Interfaces_Exe_1.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\bin\Debug\net5.0\Interfaces_Exe_1.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.csproj.AssemblyReference.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.AssemblyInfoInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.AssemblyInfo.cs
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.csproj.CoreCompileInputs.cache
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\ref\Interfaces_Exe_1.dll
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.pdb
+D:\Projects\Kovai.Co\Internship\DotNet\Console\Interfaces_Exe_1\obj\Debug\net5.0\Interfaces_Exe_1.genruntimeconfig.cache
